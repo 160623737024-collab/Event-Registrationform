@@ -1,0 +1,24 @@
+{
+  "name": "event-registrationform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/160623737024-collab/Event-Registrationform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/160623737024-collab/Event-Registrationform/issues"
+  },
+  "homepage": "https://github.com/160623737024-collab/Event-Registrationform#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
